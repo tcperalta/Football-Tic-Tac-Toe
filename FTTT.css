@@ -1,0 +1,85 @@
+.login-form
+{
+	padding-top: 50px;
+	text-align: center;
+	font-family: serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.submit-btn
+{
+	font-size: 40px;
+	background-color: lightblue;
+	border-radius: 10px;
+}
+
+.submit-btn:hover
+{
+	background-color: darkblue;
+}
+
+.submit-btn:active
+{
+	background-color: green;
+}
+
+.wrong-credentials
+{
+	color: red;
+	background-color: #FFE3EE;
+	margin-left: 600px;
+	margin-right: 600px;
+	font-size: 35px;
+	display: none;
+}
+
+#grid
+{
+	background-color: lightgrey;
+	border:2px solid black;
+	margin-left: 500px;
+	display: inline;
+}
+
+.player-input
+{
+	font-family: fantasy;
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+.canvas
+{
+	display: inline;
+}
+
+.left-section
+{
+	display: inline-block;
+}
+
+h1
+{
+	font-size: 50px;
+	font-family: fantasy;
+	text-align: center;
+}
+
+.reset-btn
+{
+	font-size: 40px;
+	background-color: lightgrey;
+	border-radius: 10px;
+}
+
+.reset-btn:hover
+{
+	background-color: grey;
+}
+
+.reset-btn:active
+{
+	background-color: green;
+}
